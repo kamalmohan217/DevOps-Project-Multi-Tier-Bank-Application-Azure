@@ -1,6 +1,6 @@
 # DevOps-Project-Multi-Tier-Bank-Application-Azure
 
-![image](https://github.com/user-attachments/assets/6c813ca4-7a61-44bc-b6a0-a80268b2e6a3)
+![image](https://github.com/user-attachments/assets/b6fa6716-da6c-491f-8987-294d71f916d6)
 
 
 
